@@ -1,0 +1,126 @@
+
+["Entity Health Settings"]
+	#How much health the "Exiled Sensei" should have when not tamed (Default value = 80)
+	"exiled sensei health" = 80
+	#How much health the "Exiled Sensei" should have when tamed (Default value = 120)
+	"exiled sensei health(tame)" = 120
+	#How much health the "Undead Sensei" should have (Default value = 40)
+	"Undead sensei health" = 40
+	#How much health the "Exiled Devil" should have (Default value = 140)
+	"exiled Devil health" = 140
+
+["Entity Loot Drop Chances"]
+	#The drop chance of Tier 1 Swiftness/Power-Essence (Default value = 0.16)
+	#Range: 0.0 ~ 1.0
+	"tier1 essence chance" = 0.16
+	#The drop chance of Tier 2 Swiftness/Power-Essence (Default value = 0.30)
+	#Range: 0.0 ~ 1.0
+	"tier2 essence chance" = 0.3
+	#The drop chance of Tier 3 Swiftness/Power-Essence (Default value = 0.50)
+	#Range: 0.0 ~ 1.0
+	"tier3 essence chance" = 0.5
+	#The drop chance of charges(eg. ender/nether charge) - (Default value = 0.16)
+	#Range: 0.0 ~ 1.0
+	"charge drop chance" = 0.24
+
+["Taming Settings"]
+	#Whether or not the Exiled Sensei able to be tamed(Will not effect already tamed sensei's! - Default value = true)
+	"Can tame exiled Sensei" = true
+	#What item can be used to tame the Exiled Sensei (Item MUST be a form and its tier-swift/power_form1/2/3, eg. swift_form1, swift_form2, power_from2, swift_form3 etc...)
+	"exiled sensei taming item" = "kenjiscombatforms:power_form2"
+	#The minimum amount of emeralds needed in order to tame the Exiled Sensei (Default Value = 5)
+	#Range: 0 ~ 64
+	"min emeralds for tame" = 5
+	#The chance that an Exiled Sensei will have to become afraid when below a certain amount of health(Default value = 0.45)
+	#Range: 0.0 ~ 1.0
+	"exiled sensei afraid chance" = 0.45
+	#The amount of health the exiled sensei has to be below in order to have a chance to be tamed (Default value = 20)
+	"exiled sensei afraid health amount" = 20
+
+["Entity Spawns"]
+	#The distance between undead sensei's to be allowed to spawn (Default is 80)
+	"undead sensei spawn distance" = 80
+	#The distance between exiled sensei's to be allowed to spawn (Default is 128)
+	"exiled sensei spawn distance" = 128
+	#The distance between exiled devil's to be allowed to spawn (Default is 164)
+	"exiled devil spawn distance" = 164
+	#The distance between ability traders to be allowed to spawn (Default is 148)
+	"ability trader spawn distance" = 148
+	#The maximum distance from the player for the ability trader to be able to spawn (default value is 48)
+	"ability trader player spawn distance" = 48
+	#The overall chance for the undead sensei to spawn (Default is 0.6)
+	#Range: 0.0 ~ 1.0
+	"undead sensei spawn chance" = 0.6
+	#The overall chance for the exiled sensei to spawn (Default is 0.2)
+	#Range: 0.0 ~ 1.0
+	"exiled sensei spawn chance" = 0.2
+	#The overall chance for the exiled devil to spawn (Default is 0.22)
+	#Range: 0.0 ~ 1.0
+	"exiled devil spawn chance" = 0.22
+	#The overall chance for the ability trader to spawn (Default is 0.10)
+	#Range: 0.0 ~ 1.0
+	"ability trader spawn chance" = 0.1
+
+["Ability Cooldowns"]
+	#The cooldown(In Seconds) for 1st form abilites (Default is 30)
+	#Range: 15 ~ 120
+	"ability 1 cooldown's" = 30
+	#The cooldown(In Seconds) for 2nd form abilities (Default is 45)
+	#Range: 15 ~ 180
+	"ability 2 cooldown's" = 45
+	#The cooldown(In Seconds) for 3rd form abilities (Default is 60)
+	#Range: 15 ~ 240
+	"ability 3 cooldown's" = 60
+	#The cooldown(In Seconds) for 4th form abilities (Default is 45)
+	#Range: 15 ~ 120
+	"ability 4 cooldown's" = 45
+	#The cooldown(In Seconds) for 5th form abilities (Default is 30)
+	#Range: 15 ~ 120
+	"ability 5 cooldown's" = 30
+
+["Ability Adjustments"]
+	#The maximum distance(In Blocks) which you can teleport with the first void form ability (Default is 50)
+	#Range: 20 ~ 180
+	"teleport max distance" = 50
+	#The damage caused by the 5th wither form ability (Default is 6)
+	#Range: 2 ~ 20
+	"wither explosion damage" = 6
+	#The amount of minions able to be summoned at a time with the 4th wither form ability
+	#Range: 1 ~ 4
+	"minion count" = 2
+	#The amount of cooldown that should be taken from ability 1 cooldown's aswell as the amount needed to use the ability(divided). eg. 2 will use half the bar, 3 will use a third of the bar etc.
+	#Range: 1 ~ 4
+	"ability 1 cooldown depletion/requirement" = 2
+	#If true, the ability cooldowns for 2nd abilities will instead be filled by damaging enemies
+	"ability 2 combat mode" = false
+	#If true, the ability cooldowns for 3rd abilities will instead be filled by damaging enemies
+	"ability 3 combat mode" = false
+	#if the above option/s are true(Ability Combat Mode), determine here how much of the cooldown is filled per hit of an enemy.
+	#Range: 1 ~ 12
+	"cooldown gain per hit" = 2
+
+["Forms & Leveling"]
+	#The maximum amount of xp(Killed Monsters) required to level up to level 2 of a form (Default is 45)
+	#Range: 2 ~ 180
+	"maximum level 1 xp" = 45
+	#The amount of maximum xp multiplied per level (Default value is 2)
+	#Range: 2 ~ 6
+	"multiplied max level xp" = 2
+
+[Misc]
+	#Whether there is a slot to be reserved for hand-to-hand combat
+	"should have reserved hand combat slot" = true
+	#What slot the locked/form slot is set as(0 is first hotbar slot and 9 is last)
+	#Range: 0 ~ 9
+	"form lock slot index" = 0
+	#if true, you are able to use your current chosen abilities regardless whether you are "holding" a combat form or not
+	"can use abilities without form" = true
+
+[Compatibility]
+	#If true, will allow the entities from this mod to be weaker and more desirable for mods that increase difficulty over time/distance(Improved Mobs, RpgDifficulty etc.)[Please not this only changes default health values, and only for 2 of the sensei's]
+	"dynamic difficulty compat mode" = false
+	#How much health the "Undead Sensei" should start with if dynamic difficulty combat is enabled
+	"compat mode undead sensei health" = 12
+	#How much health the "Exiled Devil" should start with if dynamic difficulty combat is enabled
+	"compat mode exiled devil health" = 18
+

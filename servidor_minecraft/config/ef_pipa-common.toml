@@ -1,0 +1,4 @@
+#Sonic Boom Damage
+#Range: 0.0 ~ 1.7976931348623157E308
+sonic_boom_damage = 5.0
+

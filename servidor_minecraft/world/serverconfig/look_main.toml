@@ -1,0 +1,15 @@
+
+[Bosses]
+	#Max Health: 300
+	EyeOfCthulhuHealth = 300.0
+	#Sets health of Spazmatism and Retinazer. Max Health: 300
+	TwinsHealth = 300.0
+	#Max Health: 350
+	DeerclopsHealth = 350.0
+
+[Other]
+	#Sets health of Demon Eye, Summoned Demon Eye and Servant of Cthulhu. Max Health: 10
+	DemonEyeHealth = 10.0
+	#Max Health: 45
+	WanderingEyeHealth = 45.0
+
