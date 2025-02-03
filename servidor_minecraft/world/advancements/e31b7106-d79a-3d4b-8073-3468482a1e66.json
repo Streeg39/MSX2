@@ -10499,6 +10499,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced_repair": {
+    "criteria": {
+      "has_heart_seeker": "2025-02-03 23:11:48 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-02-03 23:02:44 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
     "criteria": {
       "has_pure_blood": "2025-02-03 22:51:13 +0000"

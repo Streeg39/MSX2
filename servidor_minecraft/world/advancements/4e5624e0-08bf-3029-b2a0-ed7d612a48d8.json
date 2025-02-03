@@ -450,6 +450,7 @@
       "pumpkin_patch": "2025-01-31 23:58:52 +0000",
       "grassland": "2025-01-31 23:38:57 +0000",
       "tundra": "2025-02-03 06:17:53 +0000",
+      "glowing_grotto": "2025-02-03 23:02:25 +0000",
       "undergrowth": "2025-02-02 23:01:36 +0000",
       "rainforest": "2025-02-01 03:14:34 +0000",
       "crag": "2025-02-01 01:14:42 +0000",
@@ -2632,6 +2633,7 @@
       "minecraft:pillager": "2025-02-03 05:38:09 +0000",
       "minecraft:skeleton": "2025-02-01 00:05:49 +0000",
       "minecraft:spider": "2025-02-01 03:11:44 +0000",
+      "minecraft:creeper": "2025-02-03 23:03:25 +0000",
       "minecraft:husk": "2025-02-01 00:09:50 +0000",
       "minecraft:cave_spider": "2025-02-03 06:20:09 +0000",
       "minecraft:zombie": "2025-02-02 01:50:44 +0000",
@@ -7465,6 +7467,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-02-03 23:06:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-02-03 22:56:11 +0000"
@@ -7489,6 +7497,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-02-03 23:03:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-02-03 22:56:11 +0000"
@@ -7504,6 +7518,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-03 22:53:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-02-03 23:07:47 +0000"
     },
     "done": true
   },
