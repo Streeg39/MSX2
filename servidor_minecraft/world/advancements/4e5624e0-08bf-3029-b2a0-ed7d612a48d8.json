@@ -7409,6 +7409,12 @@
     },
     "done": true
   },
+  "silentgear:armor": {
+    "criteria": {
+      "chestplate": "2025-02-03 22:19:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2025-02-03 22:03:20 +0000"
