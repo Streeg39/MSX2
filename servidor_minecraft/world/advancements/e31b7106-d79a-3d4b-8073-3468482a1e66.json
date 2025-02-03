@@ -10373,6 +10373,12 @@
     },
     "done": true
   },
+  "rats:plague_doctor": {
+    "criteria": {
+      "meet_doctor": "2025-02-03 20:59:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2025-02-03 20:13:11 +0000"
