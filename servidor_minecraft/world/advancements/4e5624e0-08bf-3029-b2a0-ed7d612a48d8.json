@@ -7443,6 +7443,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-02-03 23:22:35 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_andesite_bridge": {
     "criteria": {
       "has_planks": "2025-02-03 22:53:39 +0000"
@@ -7464,6 +7470,12 @@
   "aether:recipes/redstone/skyroot_note_block": {
     "criteria": {
       "has_redstone": "2025-02-03 22:56:11 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-03 23:22:24 +0000"
     },
     "done": true
   },
@@ -7527,6 +7539,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-02-03 23:20:46 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/speed_upgrade": {
     "criteria": {
       "has_dust": "2025-02-03 22:56:11 +0000"
@@ -7563,6 +7581,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-02-03 23:21:13 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/andesite": {
     "criteria": {
       "has_wood": "2025-02-03 22:53:39 +0000"
@@ -7572,6 +7596,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-03 22:53:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-02-03 23:16:31 +0000"
     },
     "done": true
   },
@@ -7586,6 +7616,12 @@
       "has_andesite": "2025-02-03 22:53:39 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-03 23:22:24 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
@@ -7608,6 +7644,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-02-03 22:56:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-02-03 23:22:35 +0000"
     },
     "done": true
   },
