@@ -10507,6 +10507,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-02-03 23:54:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-02-03 23:40:24 +0000"
@@ -10534,6 +10540,12 @@
   "vampirism:recipes/combat/vampire/heart_seeker_enhanced_repair": {
     "criteria": {
       "has_heart_seeker": "2025-02-03 23:11:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-02-03 23:51:23 +0000"
     },
     "done": true
   },

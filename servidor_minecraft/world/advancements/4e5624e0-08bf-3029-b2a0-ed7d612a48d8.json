@@ -4705,9 +4705,10 @@
   },
   "vampirism:vampire/blood_cult": {
     "criteria": {
-      "main": "2025-02-01 02:17:49 +0000"
+      "main": "2025-02-01 02:17:49 +0000",
+      "flower": "2025-02-03 23:53:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/freeze_kill": {
     "criteria": {

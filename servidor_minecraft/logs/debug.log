@@ -15123,3 +15123,49 @@ java.lang.NullPointerException: Cannot invoke "String.isEmpty()" because "messag
 [03Feb2025 23:46:57.304] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
 [03Feb2025 23:46:57.304] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
 [03Feb2025 23:47:36.455] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:49:03.957] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:49:33.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 23:49:33.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 23:49:37.653] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:49:37.653] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:49:37.654] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:49:37.703] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:49:41.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 13000]
+[03Feb2025 23:49:45.306] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:50:14.355] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:50:32.357] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:50:32.455] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:50:53.255] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:51:23.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Lorem Ipsum]
+[03Feb2025 23:51:32.958] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:51:47.803] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:51:47.804] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:52:45.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> xd
+[03Feb2025 23:52:49.389] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Starting ritual for ServerPlayer['JackUchihaUwU'/68992, l='ServerLevel[world]', x=1282.50, y=121.81, z=565.45]
+[03Feb2025 23:52:49.422] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Ritual started
+[03Feb2025 23:53:05.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the weather to clear]
+[03Feb2025 23:53:09.379] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JackUchihaUwU has new faction level vampirism:vampire 5
+[03Feb2025 23:53:09.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU has made the advancement [Blood Cult]
+[03Feb2025 23:53:11.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: The difficulty has been set to Peaceful]
+[03Feb2025 23:53:14.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: The difficulty has been set to Hard]
+[03Feb2025 23:53:14.760] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:53:17.205] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:53:17.253] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:53:17.253] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:53:55.607] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:53:56.603] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:54:03.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [The Journey Begins]
+[03Feb2025 23:54:05.959] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:54:17.390] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at 9623 6 8902 in 2s
+[03Feb2025 23:54:33.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 23:54:33.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 23:55:11.204] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:55:11.204] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:56:09.756] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:56:50.757] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:57:10.705] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:titanexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:57:58.559] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:58:34.757] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:58:35.304] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:58:35.304] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[03Feb2025 23:58:36.403] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
