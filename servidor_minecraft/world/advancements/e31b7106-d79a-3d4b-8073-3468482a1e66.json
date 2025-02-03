@@ -10349,6 +10349,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-03 22:08:56 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-03 22:03:33 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-03 22:03:33 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-02-03 19:10:58 +0000"
@@ -10373,9 +10391,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/cursed_spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-02-03 22:03:33 +0000"
+    },
+    "done": true
+  },
   "rats:plague_doctor": {
     "criteria": {
       "meet_doctor": "2025-02-03 20:59:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-02-03 22:03:33 +0000"
     },
     "done": true
   },
@@ -10385,9 +10415,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/redstone/cursed_spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-03 22:03:33 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_slab": {
     "criteria": {
       "has_planks": "2025-02-03 19:10:58 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_pressure_place": {
+    "criteria": {
+      "has_planks": "2025-02-03 22:03:33 +0000"
     },
     "done": true
   },
@@ -10397,9 +10439,27 @@
     },
     "done": true
   },
+  "vampirism:recipes/redstone/cursed_spruce_button": {
+    "criteria": {
+      "has_planks": "2025-02-03 22:03:33 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/fir_sign": {
     "criteria": {
       "has_fir_planks": "2025-02-03 19:10:58 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/cursed_spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-03 22:03:33 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_door": {
+    "criteria": {
+      "has_planks": "2025-02-03 22:03:33 +0000"
     },
     "done": true
   },

@@ -7385,6 +7385,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-03 22:03:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-02-03 22:00:15 +0000"
@@ -7400,6 +7406,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-02-03 22:00:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-03 22:03:20 +0000"
     },
     "done": true
   },
