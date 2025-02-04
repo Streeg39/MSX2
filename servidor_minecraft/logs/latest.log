@@ -1,44 +1,1273 @@
-[04Feb2025 00:02:09.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: The difficulty has been set to Peaceful]
-[04Feb2025 00:02:14.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: The difficulty has been set to Hard]
-[04Feb2025 00:02:15.056] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:02:15.056] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:02:16.006] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:02:16.106] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:02:16.106] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:04:23.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:04:23.362] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:04:24.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:04:25.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> asd
-[04Feb2025 00:04:29.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Streeg11> asd
-[04Feb2025 00:04:34.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
-[04Feb2025 00:04:47.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
-[04Feb2025 00:05:25.997] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:05:44.913] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:05:58.913] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:06:33.840] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:06:34.330] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:07:09.271] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:07:55.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 13000]
-[04Feb2025 00:08:17.566] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:08:55.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[04Feb2025 00:09:31.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:09:59.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU has reached the goal [Spectral Guardian]
-[04Feb2025 00:10:32.463] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:10:32.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:10:45.706] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:10:45.707] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:11:38.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:11:43.478] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:11:59.588] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:13:26.961] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:14:39.206] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:15:11.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
-[04Feb2025 00:15:37.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
-[04Feb2025 00:16:01.276] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:16:01.276] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:17:03.560] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:17:03.560] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:17:05.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 13000]
-[04Feb2025 00:17:34.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:17:34.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
-[04Feb2025 00:18:20.359] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[04Feb2025 04:15:34.775] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[04Feb2025 04:15:34.779] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[04Feb2025 04:15:51.090] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[04Feb2025 04:15:51.281] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[04Feb2025 04:15:52.066] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[04Feb2025 04:15:52.067] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Feb2025 04:15:52.068] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Feb2025 04:15:52.069] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Feb2025 04:15:53.989] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[04Feb2025 04:15:53.991] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/MSX2/servidor_minecraft/mods/curios-forge-5.11.1+1.20.1.jar
+[04Feb2025 04:15:53.991] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: apexcore. Using Mod File: /workspaces/MSX2/servidor_minecraft/mods/apexcore-1.20.1-10.0.0.jar
+[04Feb2025 04:15:53.991] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 37 dependencies adding them to mods collection
+[04Feb2025 04:15:54.748] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
+[04Feb2025 04:15:54.883] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[04Feb2025 04:15:54.892] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
+[04Feb2025 04:15:54.901] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/MSX2/servidor_minecraft/mods/scripts as it did not exist.
+[04Feb2025 04:15:54.911] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[04Feb2025 04:15:58.474] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 3393ms
+[04Feb2025 04:15:58.475] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
+[04Feb2025 04:16:01.259] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[04Feb2025 04:16:01.683] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[04Feb2025 04:16:01.963] [main/WARN] [mixin/]: Reference map 'universalgrid.refmap.json' for universalgrid.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Feb2025 04:16:02.035] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Feb2025 04:16:02.159] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Feb2025 04:16:02.233] [main/WARN] [mixin/]: Reference map 'apexcore.refmap.json' for apexcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Feb2025 04:16:03.372] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[04Feb2025 04:16:03.373] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[04Feb2025 04:16:03.373] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[04Feb2025 04:16:04.651] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/SmithingScreen (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.inventory.SmithingScreen)
+[04Feb2025 04:16:04.651] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.SmithingScreen was not found minervillager.mixins.json:SmithingScreenMixin
+[04Feb2025 04:16:05.227] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.0).
+[04Feb2025 04:16:11.704] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[04Feb2025 04:16:11.705] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[04Feb2025 04:16:15.979] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[04Feb2025 04:16:15.980] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[04Feb2025 04:16:15.980] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[04Feb2025 04:16:15.981] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[04Feb2025 04:16:17.406] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[04Feb2025 04:16:18.708] [main/INFO] [org.groovymc.gml.internal.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
+[04Feb2025 04:16:19.852] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[04Feb2025 04:16:19.853] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[04Feb2025 04:16:19.853] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[04Feb2025 04:16:19.854] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[04Feb2025 04:16:19.854] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[04Feb2025 04:16:19.854] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[04Feb2025 04:16:19.854] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[04Feb2025 04:16:19.897] [modloading-worker-0/INFO] [universalgrid/]: Loading config: /workspaces/MSX2/servidor_minecraft/config/universalgrid-common.toml
+[04Feb2025 04:16:19.898] [modloading-worker-0/INFO] [universalgrid/]: Built config: /workspaces/MSX2/servidor_minecraft/config/universalgrid-common.toml
+[04Feb2025 04:16:19.899] [modloading-worker-0/INFO] [universalgrid/]: Loaded config: /workspaces/MSX2/servidor_minecraft/config/universalgrid-common.toml
+[04Feb2025 04:16:20.847] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.9
+[04Feb2025 04:16:20.918] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 2 RS API injection points
+[04Feb2025 04:16:20.921] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Injected RS API in com.ultramega.universalgrid.UniversalGrid RSAPI
+[04Feb2025 04:16:20.922] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Injected RS API in com.refinedmods.refinedstorageaddons.RSAddons RSAPI
+[04Feb2025 04:16:21.026] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[04Feb2025 04:16:21.056] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[04Feb2025 04:16:21.608] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
+[04Feb2025 04:16:22.859] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[04Feb2025 04:16:22.862] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[04Feb2025 04:16:22.877] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[04Feb2025 04:16:23.092] [modloading-worker-0/INFO] [Chunk Pregenerator/]: Loading Plugin: [name=JourneyMap]
+[04Feb2025 04:16:23.107] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[04Feb2025 04:16:24.417] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[04Feb2025 04:16:24.425] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: VampirismCompat
+[04Feb2025 04:16:24.557] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: AmethystGuard
+[04Feb2025 04:16:24.559] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: RapierGuardWoM
+[04Feb2025 04:16:24.560] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: AmethystGuardWoM
+[04Feb2025 04:16:24.776] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[04Feb2025 04:16:24.777] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[04Feb2025 04:16:24.786] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[04Feb2025 04:16:24.789] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[04Feb2025 04:16:24.790] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[04Feb2025 04:16:24.791] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[04Feb2025 04:16:24.792] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[04Feb2025 04:16:25.045] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[04Feb2025 04:16:25.057] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[04Feb2025 04:16:27.511] [modloading-worker-0/INFO] [fr.samlegamer.macawsroofsbop.MacawsRoofsBOP/]: Macaw's Roofs - Biome O' Plenty : Loading...
+[04Feb2025 04:16:27.558] [modloading-worker-0/INFO] [fr.samlegamer.macawsroofsbop.MacawsRoofsBOP/]: Macaw's Roofs - Biome O' Plenty : Is Charged
+[04Feb2025 04:16:27.559] [modloading-worker-0/INFO] [fr.samlegamer.mcwfencesbop.McwFencesBOP/]: Macaw's Fences - Biomes O' Plenty : Loading ...
+[04Feb2025 04:16:27.582] [modloading-worker-0/INFO] [fr.samlegamer.mcwfencesbop.McwFencesBOP/]: Macaw's Fences - Biomes O' Plenty : Is Charged
+[04Feb2025 04:16:27.996] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[04Feb2025 04:16:27.996] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[04Feb2025 04:16:28.235] [modloading-worker-0/INFO] [xyz.apex.forge.commonality.Mods.CommonalityMod/]: Running Minecraft '1.20.1', & Forge '47.3.7' on Java '17.0.13, Ubuntu'
+[04Feb2025 04:16:28.252] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
+[04Feb2025 04:16:28.654] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
+[04Feb2025 04:16:28.655] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
+[04Feb2025 04:16:28.655] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[04Feb2025 04:16:28.656] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
+[04Feb2025 04:16:28.687] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'infusedfoods' TrustWorthiness...
+[04Feb2025 04:16:28.688] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[04Feb2025 04:16:28.691] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'infusedfoods' TrustWorthiness: UNKNOWN
+[04Feb2025 04:16:28.702] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
+[04Feb2025 04:16:28.702] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[04Feb2025 04:16:28.703] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
+[04Feb2025 04:16:28.872] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[04Feb2025 04:16:41.470] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.Entity from class it.hurts.octostudios.rarcompat.items.necklace.ScarfOfInvisibilityItem
+[04Feb2025 04:16:44.297] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[04Feb2025 04:16:45.428] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[04Feb2025 04:16:45.438] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[04Feb2025 04:16:45.440] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[04Feb2025 04:16:45.442] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[04Feb2025 04:16:45.813] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[04Feb2025 04:16:45.877] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.nitespring.bloodborne.common.entities.mobs.parent.AbstractBloodborneEntity from class com.nitespring.bloodborne.common.entities.mobs.parent.AbstractHuntsmanEntity
+[04Feb2025 04:16:45.878] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.nitespring.bloodborne.common.entities.mobs.parent.AbstractBloodborneEntity from class com.nitespring.bloodborne.common.entities.mobs.parent.AbstractHuntsmanEntity
+[04Feb2025 04:16:45.945] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[04Feb2025 04:16:45.965] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[04Feb2025 04:16:46.018] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[04Feb2025 04:16:46.018] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[04Feb2025 04:16:46.019] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[04Feb2025 04:16:46.019] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[04Feb2025 04:16:46.019] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[04Feb2025 04:16:46.019] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[04Feb2025 04:16:46.019] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[04Feb2025 04:16:46.020] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[04Feb2025 04:16:46.020] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[04Feb2025 04:16:46.544] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[04Feb2025 04:16:46.724] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
+[04Feb2025 04:16:46.749] [modloading-worker-0/INFO] [thetadev.constructionwand.ConstructionWand/]: ConstructionWand says hello - may the odds be ever in your favor.
+[04Feb2025 04:16:46.839] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.14 initializing...
+[04Feb2025 04:16:46.856] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[04Feb2025 04:16:46.858] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
+[04Feb2025 04:16:46.886] [modloading-worker-0/INFO] [net.kenji.kenjiscombatforms.KenjisCombatForms/]: HELLO FROM COMMON SETUP
+[04Feb2025 04:16:47.025] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[04Feb2025 04:16:47.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: OUTDATED Current: 1.19.5 Target: 1.19.6
+[04Feb2025 04:16:47.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[04Feb2025 04:16:47.235] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[04Feb2025 04:16:47.236] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[04Feb2025 04:16:47.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.2-neoforge Target: null
+[04Feb2025 04:16:47.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[04Feb2025 04:16:47.318] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[04Feb2025 04:16:47.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[04Feb2025 04:16:47.331] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: OUTDATED Current: 1.2.50 Target: 1.2.51
+[04Feb2025 04:16:47.331] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [spellbound_weapons_mr] Starting version check at https://api.modrinth.com/updates/egyqODDj/forge_updates.json
+[04Feb2025 04:16:47.538] [main/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Starting to register Curios item...
+[04Feb2025 04:16:47.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [spellbound_weapons_mr] Found status: UP_TO_DATE Current: 4.0.5m Target: null
+[04Feb2025 04:16:47.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[04Feb2025 04:16:47.711] [main/INFO] [journeymap/]: Initializing Packet Registries
+[04Feb2025 04:16:47.800] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[04Feb2025 04:16:47.801] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[04Feb2025 04:16:47.801] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[04Feb2025 04:16:47.801] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[04Feb2025 04:16:47.802] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[04Feb2025 04:16:47.802] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[04Feb2025 04:16:47.802] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[04Feb2025 04:16:47.862] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[04Feb2025 04:16:47.868] [main/INFO] [terrablender/]: Registered region vampirism:overworld to index 4 for type OVERWORLD
+[04Feb2025 04:16:47.869] [main/INFO] [de.teamlapen.vampirism.modcompat.terrablender.TerraBlenderCompat/]: TerraBlender is installed. Using it to add vampire Forest to overworld.
+[04Feb2025 04:16:47.925] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[04Feb2025 04:16:47.934] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[04Feb2025 04:16:47.947] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 67 compatible attributes.
+[04Feb2025 04:16:47.950] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[04Feb2025 04:16:47.959] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[04Feb2025 04:16:47.967] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 67 values from config.
+[04Feb2025 04:16:47.996] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 67 entries.
+[04Feb2025 04:16:47.998] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 67 attributes.
+[04Feb2025 04:16:48.019] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
+[04Feb2025 04:16:48.030] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[04Feb2025 04:16:48.032] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[04Feb2025 04:16:48.033] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
+[04Feb2025 04:16:48.036] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[04Feb2025 04:16:48.037] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[04Feb2025 04:16:48.039] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[04Feb2025 04:16:48.040] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [lost_aether_content] Starting version check at http://changelogs.moddinglegacy.com/lost-content.json
+[04Feb2025 04:16:48.055] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[04Feb2025 04:16:48.060] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[04Feb2025 04:16:48.067] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
+[04Feb2025 04:16:48.068] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.pipez.integration.waila.PluginPipes
+[04Feb2025 04:16:48.083] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[04Feb2025 04:16:48.083] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Vampirism Biomes are added via TerraBlender. Not adding them to overworld preset.
+[04Feb2025 04:16:48.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [lost_aether_content] Found status: UP_TO_DATE Current: 1.2.3 Target: null
+[04Feb2025 04:16:48.390] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[04Feb2025 04:16:48.402] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
+[04Feb2025 04:16:48.402] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[04Feb2025 04:16:48.636] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[04Feb2025 04:16:48.636] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[04Feb2025 04:16:48.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[04Feb2025 04:16:48.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[04Feb2025 04:16:48.760] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.0.0 Target: null
+[04Feb2025 04:16:48.760] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Starting version check at https://nerdthened.github.io/More-bows/update-modern.json
+[04Feb2025 04:16:48.805] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Found status: UP_TO_DATE Current: 1.0.13 Target: null
+[04Feb2025 04:16:48.805] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
+[04Feb2025 04:16:49.261] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Found status: BETA Current: 4.0.9 Target: null
+[04Feb2025 04:16:49.261] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[04Feb2025 04:16:49.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[04Feb2025 04:16:49.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
+[04Feb2025 04:16:49.453] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3.4 Target: 1.3.4+mod
+[04Feb2025 04:16:49.453] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[04Feb2025 04:16:49.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
+[04Feb2025 04:16:49.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [giacomos_fishing_net] Starting version check at https://raw.githubusercontent.com/Zacomat/giacomos_mod-update-JSON/main/giacomos_fishing_nets-updateJSON
+[04Feb2025 04:16:49.519] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [giacomos_fishing_net] Found status: UP_TO_DATE Current: 1.7.10 Target: null
+[04Feb2025 04:16:49.520] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[04Feb2025 04:16:49.591] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
+[04Feb2025 04:16:49.591] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs.json
+[04Feb2025 04:16:49.602] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Found status: UP_TO_DATE Current: 2.3.1 Target: null
+[04Feb2025 04:16:49.602] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[04Feb2025 04:16:49.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[04Feb2025 04:16:49.614] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[04Feb2025 04:16:49.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[04Feb2025 04:16:49.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[04Feb2025 04:16:49.728] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[04Feb2025 04:16:49.729] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[04Feb2025 04:16:49.829] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[04Feb2025 04:16:49.829] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guideapi_vp] Starting version check at https://maxanier.de/projects/guideapi/versions.json
+[04Feb2025 04:16:50.437] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guideapi_vp] Found status: BETA Current: 2.2.6 Target: null
+[04Feb2025 04:16:50.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
+[04Feb2025 04:16:50.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[04Feb2025 04:16:50.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[04Feb2025 04:16:50.548] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[04Feb2025 04:16:50.548] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[04Feb2025 04:16:50.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[04Feb2025 04:16:50.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[04Feb2025 04:16:50.988] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
+[04Feb2025 04:16:50.988] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Starting version check at https://maxhenkel.de/update/pipez.json
+[04Feb2025 04:16:51.702] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Found status: UP_TO_DATE Current: 1.20.1-1.2.5 Target: null
+[04Feb2025 04:16:51.702] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[04Feb2025 04:16:51.855] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
+[04Feb2025 04:16:51.855] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgear] Starting version check at https://raw.githubusercontent.com/SilentChaos512/Silent-Gear/1.19.x/update.json
+[04Feb2025 04:16:51.866] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgear] Found status: BETA Current: 3.6.6 Target: null
+[04Feb2025 04:16:51.866] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[04Feb2025 04:16:52.115] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Found status: OUTDATED Current: 7.0.0 Target: 10.0.0
+[04Feb2025 04:16:52.116] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://api.modrinth.com/updates/vampirism/forge_updates.json
+[04Feb2025 04:16:52.216] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: UP_TO_DATE Current: 1.10.12 Target: null
+[04Feb2025 04:16:52.216] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[04Feb2025 04:16:52.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Found status: UP_TO_DATE Current: 10.0.0 Target: null
+[04Feb2025 04:16:52.320] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [infusedfoods] Starting version check at https://api.modrinth.com/updates/infused-foods/forge_updates.json
+[04Feb2025 04:16:52.420] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [infusedfoods] Found status: UP_TO_DATE Current: 10.0.0 Target: null
+[04Feb2025 04:16:59.057] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04Feb2025 04:17:07.307] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23397!/assets/.mcassetsroot' uses unexpected schema
+[04Feb2025 04:17:07.307] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23397!/data/.mcassetsroot' uses unexpected schema
+[04Feb2025 04:17:09.187] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: bloodandmadness:forge/biome_modifier/celestial_emissary_I.json, ignoring
+[04Feb2025 04:17:09.188] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: bloodandmadness:forge/biome_modifier/brainsucker_I.json, ignoring
+[04Feb2025 04:17:10.622] [main/WARN] [mixin/]: Mixin apply failed efm_ex.mixins.json:MixinAnimationManager -> yesman.epicfight.api.animation.AnimationManager: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException Critical injection failure: @Inject annotation on prep could not find any targets matching 'prepare(Lnet/minecraft/server/packs/resources/ResourceManager;Lnet/minecraft/util/profiling/ProfilerFiller;)Ljava/util/Map;' in yesman.epicfight.api.animation.AnimationManager. Using refmap efm_ex.refmap.json [ -> handler$zpi000$prep(Lnet/minecraft/server/packs/resources/ResourceManager;Lnet/minecraft/util/profiling/ProfilerFiller;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V -> Parse]
+org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Critical injection failure: @Inject annotation on prep could not find any targets matching 'prepare(Lnet/minecraft/server/packs/resources/ResourceManager;Lnet/minecraft/util/profiling/ProfilerFiller;)Ljava/util/Map;' in yesman.epicfight.api.animation.AnimationManager. Using refmap efm_ex.refmap.json [ -> handler$zpi000$prep(Lnet/minecraft/server/packs/resources/ResourceManager;Lnet/minecraft/util/profiling/ProfilerFiller;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V -> Parse]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.validateTargets(InjectionInfo.java:656) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.findTargets(InjectionInfo.java:587) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.readAnnotation(InjectionInfo.java:330) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:316) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:308) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo.<init>(CallbackInjectionInfo.java:46) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at jdk.internal.reflect.GeneratedConstructorAccessor38.newInstance(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo$InjectorEntry.create(InjectionInfo.java:149) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.parse(InjectionInfo.java:708) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.prepareInjections(MixinTargetContext.java:1311) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.prepareInjections(MixinApplicatorStandard.java:1042) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:393) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:325) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156) ~[modlauncher-10.0.9.jar%2355!/:10.0.9+10.0.9+main.dcd20f30]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at yesman.epicfight.main.EpicFightMod$ServerForgeEvents.addReloadListnerEvent(EpicFightMod.java:330) ~[epicfight-forge-20.9.6-1.20.1.jar%23295!/:20.9.6]
+	at yesman.epicfight.main.__ServerForgeEvents_addReloadListnerEvent_AddReloadListenerEvent.invoke(.dynamic) ~[epicfight-forge-20.9.6-1.20.1.jar%23295!/:20.9.6]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onResourceReload(ForgeEventFactory.java:785) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.server.ReloadableServerResources.m_247740_(ReloadableServerResources.java:77) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.WorldLoader.m_214362_(WorldLoader.java:38) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.Main.lambda$main$2(Main.java:167) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:777) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[04Feb2025 04:17:10.631] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[04Feb2025 04:17:10.877] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.6.2 MC 1.20.1.jar)
+[04Feb2025 04:17:10.911] [Worker-Main-5/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
+[04Feb2025 04:17:11.096] [Worker-Main-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag corail_dt:dts as it is missing following references: corail_dt:dt_w_c_b (from Corail-DT-1.20.1-480.jar)
+[04Feb2025 04:17:13.617] [Worker-Main-3/INFO] [epicfight/]: Register animations from wukong
+[04Feb2025 04:17:14.651] [Worker-Main-3/INFO] [epicfight/]: Register animations from epicfight
+[04Feb2025 04:17:15.292] [Worker-Main-3/INFO] [epicfight/]: Register animations from refm
+[04Feb2025 04:17:15.908] [Worker-Main-3/INFO] [epicfight/]: Register animations from battlearts_api
+[04Feb2025 04:17:15.909] [Worker-Main-3/INFO] [epicfight/]: Register animations from wom
+[04Feb2025 04:17:16.106] [Worker-Main-5/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/minecraft/chests/bastion_bridge' into 'minecraft:chests/bastion_bridge'
+[04Feb2025 04:17:16.828] [Worker-Main-5/INFO] [Silent Gear/]: Registered material modifier silentgear:grade
+[04Feb2025 04:17:16.828] [Worker-Main-5/INFO] [Silent Gear/]: Registered material modifier silentgear:starcharged
+[04Feb2025 04:17:17.002] [Worker-Main-5/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:corail_dt:blocks/dt_w_c_b
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'corail_dt:dt_w_c_b'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[04Feb2025 04:17:17.262] [Worker-Main-5/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:cave_stuff:chests/glowwormgardenhigh
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'cave_stuff:deleted_mod_element'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[04Feb2025 04:17:17.537] [Worker-Main-5/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/minecraft/entities/zombie_villager' into 'minecraft:entities/zombie_villager'
+[04Feb2025 04:17:17.725] [Worker-Main-3/INFO] [epicfight/]: Register animations from efm_ex
+[04Feb2025 04:17:17.759] [Worker-Main-3/INFO] [epicfight/]: Register animations from ef_pipa
+[04Feb2025 04:17:19.011] [Worker-Main-5/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/minecraft/chests/bastion_other' into 'minecraft:chests/bastion_other'
+[04Feb2025 04:17:19.986] [Worker-Main-5/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/minecraft/chests/ruined_portal' into 'minecraft:chests/ruined_portal'
+[04Feb2025 04:17:20.764] [Worker-Main-5/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/minecraft/chests/bastion_treasure' into 'minecraft:chests/bastion_treasure'
+[04Feb2025 04:17:20.931] [Worker-Main-5/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/minecraft/chests/nether_bridge' into 'minecraft:chests/nether_bridge'
+[04Feb2025 04:17:21.234] [Worker-Main-5/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/minecraft/entities/spider' into 'minecraft:entities/spider'
+[04Feb2025 04:17:22.143] [Worker-Main-5/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/minecraft/entities/cave_spider' into 'minecraft:entities/cave_spider'
+[04Feb2025 04:17:22.766] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:xp_jellies:entities/gellblaster}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[04Feb2025 04:17:22.766] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:xp_jellies:entities/gellblaster}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[04Feb2025 04:17:22.766] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:xp_jellies:entities/titanexperiencejellyfish}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[04Feb2025 04:17:22.766] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:xp_jellies:entities/smallexperiencejellyfish}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[04Feb2025 04:17:22.766] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:xp_jellies:entities/titanxpsnail}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[04Feb2025 04:17:22.768] [main/INFO] [Cucumber Library/]: Registered 0 recipes in 0 ms
+[04Feb2025 04:17:22.911] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
+[04Feb2025 04:17:22.959] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cthulhufishing:hood_deep_void_craft
+com.google.gson.JsonSyntaxException: Unknown item 'cthulhufishing:deleted_mod_element_helmet'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.SmithingTransformRecipe$Serializer.m_6729_(SmithingTransformRecipe.java:76) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.SmithingTransformRecipe$Serializer.m_6729_(SmithingTransformRecipe.java:71) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[04Feb2025 04:17:23.036] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[04Feb2025 04:17:23.042] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
+[04Feb2025 04:17:23.067] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minervillager:combine_preview
+com.google.gson.JsonSyntaxException: Unknown item 'minecraft:test'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at com.eruannie_9.minervillager.recipe.EmeraldAnvilRecipeSerializer.getIngredientFromJson(EmeraldAnvilRecipeSerializer.java:53) ~[minervillager-1.20.1-5.5.jar%23339!/:1.20.1-5.5]
+	at com.eruannie_9.minervillager.recipe.EmeraldAnvilRecipeSerializer.fromJson(EmeraldAnvilRecipeSerializer.java:40) ~[minervillager-1.20.1-5.5.jar%23339!/:1.20.1-5.5]
+	at com.eruannie_9.minervillager.recipe.EmeraldAnvilRecipeSerializer.m_6729_(EmeraldAnvilRecipeSerializer.java:21) ~[minervillager-1.20.1-5.5.jar%23339!/:1.20.1-5.5]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[04Feb2025 04:17:23.166] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[04Feb2025 04:17:23.336] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[04Feb2025 04:17:23.359] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[04Feb2025 04:17:23.393] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[04Feb2025 04:17:23.441] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[04Feb2025 04:17:23.502] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[04Feb2025 04:17:23.514] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[04Feb2025 04:17:23.536] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe corail_dt:dt_w_c_b
+com.google.gson.JsonSyntaxException: Unknown item 'corail_dt:dt_w_c_b'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[04Feb2025 04:17:23.539] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[04Feb2025 04:17:23.630] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[04Feb2025 04:17:23.651] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[04Feb2025 04:17:23.673] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[04Feb2025 04:17:23.682] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minervillager:enhance_preview
+java.lang.IllegalArgumentException: No enum constant com.eruannie_9.minervillager.util.RecipeCategory.ENHANCE
+	at java.lang.Enum.valueOf(Enum.java:273) ~[?:?]
+	at com.eruannie_9.minervillager.util.RecipeCategory.valueOf(RecipeCategory.java:3) ~[minervillager-1.20.1-5.5.jar%23339!/:1.20.1-5.5]
+	at com.eruannie_9.minervillager.recipe.EmeraldAnvilRecipeSerializer.fromJson(EmeraldAnvilRecipeSerializer.java:29) ~[minervillager-1.20.1-5.5.jar%23339!/:1.20.1-5.5]
+	at com.eruannie_9.minervillager.recipe.EmeraldAnvilRecipeSerializer.m_6729_(EmeraldAnvilRecipeSerializer.java:21) ~[minervillager-1.20.1-5.5.jar%23339!/:1.20.1-5.5]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23402!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[04Feb2025 04:17:23.692] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 65 recipes
+[04Feb2025 04:17:23.913] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5122 advancements
+[04Feb2025 04:17:24.231] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[04Feb2025 04:17:24.250] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 21 curio slots
+[04Feb2025 04:17:24.268] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[04Feb2025 04:17:24.270] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
+[04Feb2025 04:17:24.271] [main/WARN] [epicfight/]: Skill wukong:thrust_charged doesn't exist in the registry.
+[04Feb2025 04:17:24.272] [main/WARN] [epicfight/]: Skill wukong:common doesn't exist in the registry.
+[04Feb2025 04:17:24.272] [main/WARN] [epicfight/]: Skill wukong:pillar_charged doesn't exist in the registry.
+[04Feb2025 04:17:24.284] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in effs:sparksofblack
+[04Feb2025 04:17:24.288] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_katana
+[04Feb2025 04:17:24.289] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_dagger
+[04Feb2025 04:17:24.291] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:swift_form3
+[04Feb2025 04:17:24.293] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.294] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.294] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:swift_form1
+[04Feb2025 04:17:24.294] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:swift_form2
+[04Feb2025 04:17:24.294] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.296] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_sword
+[04Feb2025 04:17:24.296] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_sword
+[04Feb2025 04:17:24.297] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_heavy_mace
+[04Feb2025 04:17:24.297] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_greatsword
+[04Feb2025 04:17:24.298] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_heavy_mace
+[04Feb2025 04:17:24.299] [main/WARN] [epicfight/]: Error while deserializing datapack for minecraft:iron_axe
+[04Feb2025 04:17:24.301] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:fist
+[04Feb2025 04:17:24.302] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_greatsword
+[04Feb2025 04:17:24.303] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.303] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:swift_form1
+[04Feb2025 04:17:24.303] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_berserk_sword
+[04Feb2025 04:17:24.303] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:power_form3
+[04Feb2025 04:17:24.304] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:power_form2
+[04Feb2025 04:17:24.304] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:power_form1
+[04Feb2025 04:17:24.304] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.304] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.305] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_mace
+[04Feb2025 04:17:24.305] [main/WARN] [epicfight/]: Error while deserializing datapack for minecraft:bow
+[04Feb2025 04:17:24.306] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_sword
+[04Feb2025 04:17:24.307] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_sword
+[04Feb2025 04:17:24.309] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_staff
+[04Feb2025 04:17:24.311] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.314] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_longsword
+[04Feb2025 04:17:24.314] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_fist
+[04Feb2025 04:17:24.315] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.315] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:netherite_tachi
+[04Feb2025 04:17:24.317] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_greatsword
+[04Feb2025 04:17:24.317] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_staff
+[04Feb2025 04:17:24.318] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.318] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.318] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_greatsword
+[04Feb2025 04:17:24.319] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.320] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_greatsword
+[04Feb2025 04:17:24.320] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_scythe
+[04Feb2025 04:17:24.321] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_greataxe
+[04Feb2025 04:17:24.321] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_magic_staff
+[04Feb2025 04:17:24.322] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.322] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.324] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.324] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:bokken
+[04Feb2025 04:17:24.325] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_heavy_mace
+[04Feb2025 04:17:24.326] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_axe
+[04Feb2025 04:17:24.326] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.326] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_giant_sword
+[04Feb2025 04:17:24.327] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:netherite_greatsword
+[04Feb2025 04:17:24.328] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_claw
+[04Feb2025 04:17:24.328] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_sword
+[04Feb2025 04:17:24.329] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.329] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.329] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.330] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:diamond_tachi
+[04Feb2025 04:17:24.330] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.330] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.331] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.331] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.331] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_dagger
+[04Feb2025 04:17:24.331] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_dagger
+[04Feb2025 04:17:24.332] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_heavy_mace
+[04Feb2025 04:17:24.332] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_staff
+[04Feb2025 04:17:24.333] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_greataxe
+[04Feb2025 04:17:24.333] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_heavy_mace
+[04Feb2025 04:17:24.333] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_giant_sword
+[04Feb2025 04:17:24.336] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:stone_spear
+[04Feb2025 04:17:24.341] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:power_form3
+[04Feb2025 04:17:24.341] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:power_form2
+[04Feb2025 04:17:24.341] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_sword
+[04Feb2025 04:17:24.344] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:iron_spear
+[04Feb2025 04:17:24.345] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.345] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.346] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.347] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_greataxe
+[04Feb2025 04:17:24.348] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:basic_form2
+[04Feb2025 04:17:24.349] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:basic_form3
+[04Feb2025 04:17:24.351] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.351] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_staff
+[04Feb2025 04:17:24.353] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.353] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_sword
+[04Feb2025 04:17:24.355] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_dagger
+[04Feb2025 04:17:24.356] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.356] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.357] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_nightbringer
+[04Feb2025 04:17:24.357] [main/WARN] [epicfight/]: Error while deserializing datapack for minecraft:netherite_axe
+[04Feb2025 04:17:24.361] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:diamond_longsword
+[04Feb2025 04:17:24.362] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:wither_fist_tier3
+[04Feb2025 04:17:24.362] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_katana
+[04Feb2025 04:17:24.363] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:wither_fist_tier2
+[04Feb2025 04:17:24.363] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:wither_fist
+[04Feb2025 04:17:24.364] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_longsword
+[04Feb2025 04:17:24.364] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_noxus_axe
+[04Feb2025 04:17:24.364] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:netherite_spear
+[04Feb2025 04:17:24.367] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_greatsword
+[04Feb2025 04:17:24.369] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.369] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.371] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_heavy_mace
+[04Feb2025 04:17:24.372] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.372] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:uchigatana
+[04Feb2025 04:17:24.373] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.374] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_heavy_mace
+[04Feb2025 04:17:24.376] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_greatsword
+[04Feb2025 04:17:24.377] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.378] [main/WARN] [epicfight/]: Error while deserializing datapack for minecraft:golden_sword
+[04Feb2025 04:17:24.382] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.382] [main/WARN] [epicfight/]: Error while deserializing datapack for minecraft:wooden_axe
+[04Feb2025 04:17:24.383] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_greatsword
+[04Feb2025 04:17:24.383] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.383] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.384] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.384] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.384] [main/WARN] [epicfight/]: Error while deserializing datapack for minecraft:diamond_sword
+[04Feb2025 04:17:24.385] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.385] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_heavy_mace
+[04Feb2025 04:17:24.385] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in effs:slipper
+[04Feb2025 04:17:24.386] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_sword
+[04Feb2025 04:17:24.386] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_greatsword
+[04Feb2025 04:17:24.387] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.387] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_axe
+[04Feb2025 04:17:24.388] [main/WARN] [epicfight/]: Error while deserializing datapack for minecraft:golden_axe
+[04Feb2025 04:17:24.389] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:diamond_spear
+[04Feb2025 04:17:24.391] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.393] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.393] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.394] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_sword
+[04Feb2025 04:17:24.396] [main/WARN] [epicfight/]: Error while deserializing datapack for minecraft:iron_sword
+[04Feb2025 04:17:24.397] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_axe
+[04Feb2025 04:17:24.398] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:iron_greatsword
+[04Feb2025 04:17:24.399] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_staff
+[04Feb2025 04:17:24.400] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:void_fist_tier2
+[04Feb2025 04:17:24.401] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:void_fist_tier3
+[04Feb2025 04:17:24.401] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_staff
+[04Feb2025 04:17:24.402] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:netherite_longsword
+[04Feb2025 04:17:24.573] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.574] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.574] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.574] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_mace
+[04Feb2025 04:17:24.575] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.575] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:diamond_greatsword
+[04Feb2025 04:17:24.577] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_magic_staff
+[04Feb2025 04:17:24.578] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:golden_spear
+[04Feb2025 04:17:24.579] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:iron_tachi
+[04Feb2025 04:17:24.579] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.579] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_mercury_hammer
+[04Feb2025 04:17:24.582] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_sword
+[04Feb2025 04:17:24.582] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.583] [main/WARN] [epicfight/]: Error while deserializing datapack for minecraft:diamond_axe
+[04Feb2025 04:17:24.584] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_hand
+[04Feb2025 04:17:24.586] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_noxus_axe
+[04Feb2025 04:17:24.587] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_heavy_mace
+[04Feb2025 04:17:24.587] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.587] [main/WARN] [epicfight/]: Error while deserializing datapack for minecraft:netherite_sword
+[04Feb2025 04:17:24.589] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.589] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.590] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:power_form1
+[04Feb2025 04:17:24.590] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_mace
+[04Feb2025 04:17:24.590] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.591] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.591] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_noxus_axe
+[04Feb2025 04:17:24.591] [main/WARN] [epicfight/]: Error while deserializing datapack for minecraft:stone_sword
+[04Feb2025 04:17:24.592] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_giant_sword
+[04Feb2025 04:17:24.592] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:stone_greatsword
+[04Feb2025 04:17:24.593] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_longsword
+[04Feb2025 04:17:24.594] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_greatsword
+[04Feb2025 04:17:24.594] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.595] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.595] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.596] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in effs:hand_combat
+[04Feb2025 04:17:24.596] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:swift_form3
+[04Feb2025 04:17:24.597] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:swift_form2
+[04Feb2025 04:17:24.597] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:golden_longsword
+[04Feb2025 04:17:24.598] [main/WARN] [epicfight/]: Error while deserializing datapack for minecraft:stone_axe
+[04Feb2025 04:17:24.598] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.598] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.599] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.599] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_spear
+[04Feb2025 04:17:24.599] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:golden_greatsword
+[04Feb2025 04:17:24.600] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.600] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:golden_tachi
+[04Feb2025 04:17:24.600] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_giant_sword
+[04Feb2025 04:17:24.601] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:basic_form3
+[04Feb2025 04:17:24.601] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:basic_form2
+[04Feb2025 04:17:24.601] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:basic_form1
+[04Feb2025 04:17:24.602] [main/WARN] [epicfight/]: Can't find a particle type epicfight:entity.hit.blunt in kenjiscombatforms:void_fist
+[04Feb2025 04:17:24.602] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_aatrox_sword
+[04Feb2025 04:17:24.602] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_greataxe
+[04Feb2025 04:17:24.605] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_axe
+[04Feb2025 04:17:24.606] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_shotgun
+[04Feb2025 04:17:24.606] [main/WARN] [epicfight/]: Error while deserializing datapack for magistuarmory:silver_morgenstern
+[04Feb2025 04:17:24.607] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_mace
+[04Feb2025 04:17:24.607] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.608] [main/WARN] [epicfight/]: Error while deserializing datapack for epicfight:iron_longsword
+[04Feb2025 04:17:24.608] [main/WARN] [epicfight/]: Error while deserializing datapack for minecraft:wooden_sword
+[04Feb2025 04:17:24.609] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_sword
+[04Feb2025 04:17:24.609] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_staff
+[04Feb2025 04:17:24.609] [main/WARN] [epicfight/]: epicfight:blood is not a hit particle type in epicfight:slu_wolf_knight_sword
+[04Feb2025 04:17:24.704] [main/INFO] [Silent Gear/TraitManager]: Reloading trait files
+[04Feb2025 04:17:24.704] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:accelerate in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.707] [main/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:not'
+[04Feb2025 04:17:24.708] [main/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:and'
+[04Feb2025 04:17:24.709] [main/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:or'
+[04Feb2025 04:17:24.710] [main/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:gear_type'
+[04Feb2025 04:17:24.711] [main/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_count'
+[04Feb2025 04:17:24.712] [main/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_ratio'
+[04Feb2025 04:17:24.712] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:simple_trait'
+[04Feb2025 04:17:24.713] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:damage_type'
+[04Feb2025 04:17:24.714] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:durability'
+[04Feb2025 04:17:24.718] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:enchantment'
+[04Feb2025 04:17:24.719] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:nbt'
+[04Feb2025 04:17:24.721] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:wielder_effect'
+[04Feb2025 04:17:24.722] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stat_modifier'
+[04Feb2025 04:17:24.723] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:attribute'
+[04Feb2025 04:17:24.725] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_placer'
+[04Feb2025 04:17:24.727] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_filler'
+[04Feb2025 04:17:24.728] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:synergy'
+[04Feb2025 04:17:24.729] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:target_effect'
+[04Feb2025 04:17:24.730] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:bonus_drops'
+[04Feb2025 04:17:24.731] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:cancel_effects'
+[04Feb2025 04:17:24.732] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:self_repair'
+[04Feb2025 04:17:24.733] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stellar'
+[04Feb2025 04:17:24.733] [main/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_mining_speed'
+[04Feb2025 04:17:24.734] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:adamant in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.736] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:ancient in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.736] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:aquatic in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.736] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:bastion in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.737] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:bending in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.738] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:bounce in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.738] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:brilliant in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.738] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:brittle in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.738] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:bulky in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.738] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:chilled in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.738] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:chipping in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.739] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:confetti in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.739] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:crackler in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.739] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:crude in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.739] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:crushing in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.739] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:cure_poison in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.739] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:cure_wither in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.740] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:cursed in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.740] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:eroded in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.740] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:fiery in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.741] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:fireproof in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.741] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:flame_ward in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.741] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:flammable in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.741] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:flexible in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.741] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:floatstoner in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.741] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:gold_digger in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.742] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:greedy in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.742] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:hard in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.742] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:heavy in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.742] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:holy in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.742] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:ignite in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.743] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:imperial in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.743] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:indestructible in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.743] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:jabberwocky in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.743] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:jagged in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.743] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:kitty_vision in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.743] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:light in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.744] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:lucky in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.744] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:lustrous in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.744] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:magmatic in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.744] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:magnetic in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.744] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:malleable in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.744] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:mighty in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.744] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:moonwalker in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.745] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:multi_break in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.745] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:nc_radiation_protection in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.746] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:organic in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.746] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:racker in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.746] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:reach in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.746] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:red_card in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.746] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:refractive in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.746] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:renew in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.747] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:road_maker in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.747] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:rustic in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.747] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:sharp in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.747] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:silky in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.747] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:snow_walker in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.748] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:soft in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.748] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:spoon in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.748] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:stellar in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.748] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:sturdy in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.748] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:swift_swim in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.749] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:synergistic in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.749] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:terminus in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.749] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:turtle in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.749] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:venom in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.750] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:void_ward in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.751] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:vulcan in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.751] [main/INFO] [Silent Gear/]: Deserializing trait silentgear:widen in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.751] [main/INFO] [Silent Gear/TraitManager]: Registered 70 traits
+[04Feb2025 04:17:24.753] [main/INFO] [Silent Gear/PartManager]: Reloading part files
+[04Feb2025 04:17:24.754] [main/INFO] [Silent Gear/]: Deserializing part silentgear:adornment in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.760] [main/INFO] [Silent Gear/PartManager]: Registered part serializer 'silentgear:compound_part'
+[04Feb2025 04:17:24.760] [main/INFO] [Silent Gear/PartManager]: Registered part serializer 'silentgear:misc_upgrade'
+[04Feb2025 04:17:24.763] [main/INFO] [Silent Gear/]: Deserializing part silentgear:arrow_heads in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.769] [main/INFO] [Silent Gear/]: Deserializing part silentgear:axe_head in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.770] [main/INFO] [Silent Gear/]: Deserializing part silentgear:binding in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.770] [main/INFO] [Silent Gear/]: Deserializing part silentgear:boot_plates in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.770] [main/INFO] [Silent Gear/]: Deserializing part silentgear:bow_limbs in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.770] [main/INFO] [Silent Gear/]: Deserializing part silentgear:bowstring in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.771] [main/INFO] [Silent Gear/]: Deserializing part silentgear:bracelet_band in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.771] [main/INFO] [Silent Gear/]: Deserializing part silentgear:chestplate_plates in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.771] [main/INFO] [Silent Gear/]: Deserializing part silentgear:coating in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.771] [main/INFO] [Silent Gear/]: Deserializing part silentgear:crossbow_limbs in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.771] [main/INFO] [Silent Gear/]: Deserializing part silentgear:dagger_blade in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.772] [main/INFO] [Silent Gear/]: Deserializing part silentgear:elytra_wings in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.772] [main/INFO] [Silent Gear/]: Deserializing part silentgear:excavator_head in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.772] [main/INFO] [Silent Gear/]: Deserializing part silentgear:fishing_reel_and_hook in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.772] [main/INFO] [Silent Gear/]: Deserializing part silentgear:fletching in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.773] [main/INFO] [Silent Gear/]: Deserializing part silentgear:grip in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.773] [main/INFO] [Silent Gear/]: Deserializing part silentgear:hammer_head in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.773] [main/INFO] [Silent Gear/]: Deserializing part silentgear:helmet_plates in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.773] [main/INFO] [Silent Gear/]: Deserializing part silentgear:hoe_head in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.773] [main/INFO] [Silent Gear/]: Deserializing part silentgear:katana_blade in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.773] [main/INFO] [Silent Gear/]: Deserializing part silentgear:knife_blade in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.774] [main/INFO] [Silent Gear/]: Deserializing part silentgear:legging_plates in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.774] [main/INFO] [Silent Gear/]: Deserializing part silentgear:lining in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.774] [main/INFO] [Silent Gear/]: Deserializing part silentgear:machete_blade in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.774] [main/INFO] [Silent Gear/]: Deserializing part silentgear:mattock_head in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.774] [main/INFO] [Silent Gear/]: Deserializing part silentgear:misc/red_card in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.778] [main/INFO] [Silent Gear/]: Deserializing part silentgear:misc/road_maker in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.778] [main/INFO] [Silent Gear/]: Deserializing part silentgear:misc/spoon in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.778] [main/INFO] [Silent Gear/]: Deserializing part silentgear:misc/wide_plate in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.779] [main/INFO] [Silent Gear/]: Deserializing part silentgear:paxel_head in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.779] [main/INFO] [Silent Gear/]: Deserializing part silentgear:pickaxe_head in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.779] [main/INFO] [Silent Gear/]: Deserializing part silentgear:prospector_hammer_head in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.779] [main/INFO] [Silent Gear/]: Deserializing part silentgear:ring_shank in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.780] [main/INFO] [Silent Gear/]: Deserializing part silentgear:rod in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.780] [main/INFO] [Silent Gear/]: Deserializing part silentgear:saw_blade in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.780] [main/INFO] [Silent Gear/]: Deserializing part silentgear:shears_blades in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.781] [main/INFO] [Silent Gear/]: Deserializing part silentgear:shield_plate in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.781] [main/INFO] [Silent Gear/]: Deserializing part silentgear:shovel_head in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.781] [main/INFO] [Silent Gear/]: Deserializing part silentgear:sickle_blade in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.781] [main/INFO] [Silent Gear/]: Deserializing part silentgear:slingshot_limbs in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.781] [main/INFO] [Silent Gear/]: Deserializing part silentgear:spear_tip in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.782] [main/INFO] [Silent Gear/]: Deserializing part silentgear:sword_blade in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.782] [main/INFO] [Silent Gear/]: Deserializing part silentgear:tip in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.783] [main/INFO] [Silent Gear/]: Deserializing part silentgear:trident_prongs in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.783] [main/INFO] [Silent Gear/PartManager]: Registered 45 parts
+[04Feb2025 04:17:24.786] [main/INFO] [Silent Gear/MaterialManager]: Reloading material files
+[04Feb2025 04:17:24.787] [main/INFO] [Silent Gear/]: Deserializing material silentgear:aluminum in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.793] [main/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:standard'
+[04Feb2025 04:17:24.794] [main/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:compound'
+[04Feb2025 04:17:24.794] [main/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:custom_compound'
+[04Feb2025 04:17:24.795] [main/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:crafted'
+[04Feb2025 04:17:24.802] [main/INFO] [Silent Gear/]: Deserializing material silentgear:aluminum_steel in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.803] [main/INFO] [Silent Gear/]: Deserializing material silentgear:amethyst in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.803] [main/INFO] [Silent Gear/]: Deserializing material silentgear:azure_electrum in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.804] [main/INFO] [Silent Gear/]: Deserializing material silentgear:azure_silver in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.804] [main/INFO] [Silent Gear/]: Deserializing material silentgear:bamboo in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.805] [main/INFO] [Silent Gear/]: Deserializing material silentgear:barrier in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.805] [main/INFO] [Silent Gear/]: Deserializing material silentgear:basalt in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.806] [main/INFO] [Silent Gear/]: Deserializing material silentgear:bismuth in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.806] [main/INFO] [Silent Gear/]: Deserializing material silentgear:bismuth_brass in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.806] [main/INFO] [Silent Gear/]: Deserializing material silentgear:bismuth_steel in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.807] [main/INFO] [Silent Gear/]: Deserializing material silentgear:blackstone in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.807] [main/INFO] [Silent Gear/]: Deserializing material silentgear:blaze_gold in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.808] [main/INFO] [Silent Gear/]: Deserializing material silentgear:blaze_rod in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.808] [main/INFO] [Silent Gear/]: Deserializing material silentgear:bone in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.808] [main/INFO] [Silent Gear/]: Deserializing material silentgear:brass in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.809] [main/INFO] [Silent Gear/]: Deserializing material silentgear:bronze in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.809] [main/INFO] [Silent Gear/]: Deserializing material silentgear:compressed_iron in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.810] [main/INFO] [Silent Gear/]: Deserializing material silentgear:copper in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.810] [main/INFO] [Silent Gear/]: Deserializing material silentgear:crimson_iron in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.810] [main/INFO] [Silent Gear/]: Deserializing material silentgear:crimson_steel in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.811] [main/INFO] [Silent Gear/]: Deserializing material silentgear:diamond in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.811] [main/INFO] [Silent Gear/]: Deserializing material silentgear:dimerald in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.812] [main/INFO] [Silent Gear/]: Deserializing material silentgear:electrum in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.813] [main/INFO] [Silent Gear/]: Deserializing material silentgear:emerald in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.813] [main/INFO] [Silent Gear/]: Deserializing material silentgear:end_rod in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.814] [main/INFO] [Silent Gear/]: Deserializing material silentgear:end_stone in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.814] [main/INFO] [Silent Gear/]: Deserializing material silentgear:enderium in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.814] [main/INFO] [Silent Gear/]: Deserializing material silentgear:example in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.815] [main/INFO] [Silent Gear/]: Deserializing material silentgear:feather in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.815] [main/INFO] [Silent Gear/]: Deserializing material silentgear:fine_silk in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.817] [main/INFO] [Silent Gear/]: Deserializing material silentgear:fine_silk_cloth in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.818] [main/INFO] [Silent Gear/]: Deserializing material silentgear:flax in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.818] [main/INFO] [Silent Gear/]: Deserializing material silentgear:flint in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.818] [main/INFO] [Silent Gear/]: Deserializing material silentgear:fluffy_string in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.818] [main/INFO] [Silent Gear/]: Deserializing material silentgear:glowstone in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.819] [main/INFO] [Silent Gear/]: Deserializing material silentgear:gold in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.819] [main/INFO] [Silent Gear/]: Deserializing material silentgear:high_carbon_steel in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.820] [main/INFO] [Silent Gear/]: Deserializing material silentgear:hybrid_gem in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.822] [main/INFO] [Silent Gear/]: Deserializing material silentgear:invar in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.823] [main/INFO] [Silent Gear/]: Deserializing material silentgear:iron in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.823] [main/INFO] [Silent Gear/]: Deserializing material silentgear:lapis_lazuli in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.824] [main/INFO] [Silent Gear/]: Deserializing material silentgear:lead in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.824] [main/INFO] [Silent Gear/]: Deserializing material silentgear:leather in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.825] [main/INFO] [Silent Gear/]: Deserializing material silentgear:leaves in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.825] [main/INFO] [Silent Gear/]: Deserializing material silentgear:lumium in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.825] [main/INFO] [Silent Gear/]: Deserializing material silentgear:metal_alloy in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.825] [main/INFO] [Silent Gear/]: Deserializing material silentgear:mixed_fabric in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.826] [main/INFO] [Silent Gear/]: Deserializing material silentgear:netherite in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.826] [main/INFO] [Silent Gear/]: Deserializing material silentgear:netherrack in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.826] [main/INFO] [Silent Gear/]: Deserializing material silentgear:netherwood in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.827] [main/INFO] [Silent Gear/]: Deserializing material silentgear:nickel in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.827] [main/INFO] [Silent Gear/]: Deserializing material silentgear:obsidian in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.827] [main/INFO] [Silent Gear/]: Deserializing material silentgear:osmium in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.828] [main/INFO] [Silent Gear/]: Deserializing material silentgear:paper in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.828] [main/INFO] [Silent Gear/]: Deserializing material silentgear:phantom_membrane in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.828] [main/INFO] [Silent Gear/]: Deserializing material silentgear:platinum in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.829] [main/INFO] [Silent Gear/]: Deserializing material silentgear:prismarine in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.829] [main/INFO] [Silent Gear/]: Deserializing material silentgear:quartz in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.830] [main/INFO] [Silent Gear/]: Deserializing material silentgear:redstone in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.830] [main/INFO] [Silent Gear/]: Deserializing material silentgear:redstone_alloy in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.830] [main/INFO] [Silent Gear/]: Deserializing material silentgear:refined_glowstone in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.831] [main/INFO] [Silent Gear/]: Deserializing material silentgear:refined_iron in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.831] [main/INFO] [Silent Gear/]: Deserializing material silentgear:refined_obsidian in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.831] [main/INFO] [Silent Gear/]: Deserializing material silentgear:sandstone in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.832] [main/INFO] [Silent Gear/]: Deserializing material silentgear:sandstone/red in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.832] [main/INFO] [Silent Gear/]: Deserializing material silentgear:sheet_metal in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.833] [main/INFO] [Silent Gear/]: Deserializing material silentgear:signalum in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.833] [main/INFO] [Silent Gear/]: Deserializing material silentgear:silver in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.833] [main/INFO] [Silent Gear/]: Deserializing material silentgear:sinew in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.834] [main/INFO] [Silent Gear/]: Deserializing material silentgear:slime in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.834] [main/INFO] [Silent Gear/]: Deserializing material silentgear:steel in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.834] [main/INFO] [Silent Gear/]: Deserializing material silentgear:stone in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.835] [main/INFO] [Silent Gear/]: Deserializing material silentgear:stone/andesite in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.835] [main/INFO] [Silent Gear/]: Deserializing material silentgear:stone/diorite in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.835] [main/INFO] [Silent Gear/]: Deserializing material silentgear:stone/granite in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.835] [main/INFO] [Silent Gear/]: Deserializing material silentgear:string in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.835] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.836] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/black in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.836] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/blue in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.836] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/brown in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.836] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/cyan in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.836] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/gray in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.837] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/green in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.837] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/light_blue in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.837] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/light_gray in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.837] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/lime in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.838] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/magenta in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.838] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/orange in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.839] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/pink in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.839] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/purple in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.839] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/red in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.839] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/white in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.839] [main/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/yellow in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.840] [main/INFO] [Silent Gear/]: Deserializing material silentgear:tin in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.840] [main/INFO] [Silent Gear/]: Deserializing material silentgear:titanium in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.840] [main/INFO] [Silent Gear/]: Deserializing material silentgear:turtle in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.841] [main/INFO] [Silent Gear/]: Deserializing material silentgear:tyrian_steel in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.841] [main/INFO] [Silent Gear/]: Deserializing material silentgear:uranium in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.841] [main/INFO] [Silent Gear/]: Deserializing material silentgear:vine in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.842] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wood in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.842] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wood/acacia in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.842] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wood/birch in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.842] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wood/crimson in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.842] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wood/dark_oak in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.843] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wood/jungle in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.843] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wood/oak in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.843] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wood/rough in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.843] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wood/spruce in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.843] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wood/warped in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.844] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.844] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool/black in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.844] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool/blue in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.845] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool/brown in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.845] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool/cyan in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.845] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool/gray in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.846] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool/green in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.846] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool/light_blue in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.846] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool/light_gray in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.846] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool/lime in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.847] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool/magenta in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.847] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool/orange in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.847] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool/pink in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.847] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool/purple in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.847] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool/red in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.848] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool/white in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.848] [main/INFO] [Silent Gear/]: Deserializing material silentgear:wool/yellow in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.848] [main/INFO] [Silent Gear/]: Deserializing material silentgear:zinc in pack silent-gear-1.20.1-3.6.6.jar
+[04Feb2025 04:17:24.850] [main/INFO] [de.teamlapen.vampirism.entity.player.skills.SkillTree/]: Loaded 53 skill nodes
+[04Feb2025 04:17:24.854] [main/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 14 convertibles
+[04Feb2025 04:17:24.884] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_mountains, minecraft:is_plains
+[04Feb2025 04:17:24.899] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: cave_stuff:sodastrawsmall
+[04Feb2025 04:17:29.861] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[04Feb2025 04:17:29.866] [main/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 1 ms
+[04Feb2025 04:17:30.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[04Feb2025 04:17:30.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[04Feb2025 04:17:30.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[04Feb2025 04:17:30.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[04Feb2025 04:17:30.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[04Feb2025 04:17:30.708] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[04Feb2025 04:17:30.836] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04Feb2025 04:17:30.837] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[04Feb2025 04:17:30.837] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04Feb2025 04:17:30.837] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[04Feb2025 04:17:30.903] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[04Feb2025 04:17:31.297] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[04Feb2025 04:17:32.004] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[04Feb2025 04:17:32.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[04Feb2025 04:17:32.387] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'the_twins'
+[04Feb2025 04:17:32.392] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:overworld] with concurrent set.
+[04Feb2025 04:17:32.895] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.nitespring.bloodborne.common.entities.mobs.parent.AbstractBloodborneEntity from class com.nitespring.bloodborne.common.entities.GenericAnimatedEntity
+[04Feb2025 04:17:33.273] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.kenji.kenjiscombatforms.entity.custom.noAiEntities.EnderEntity from class net.kenji.kenjiscombatforms.entity.custom.noAiEntities.WitherPlayerEntity
+[04Feb2025 04:17:33.591] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[04Feb2025 04:17:37.829] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'the_twins'
+[04Feb2025 04:17:37.830] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / aether:the_aether] with concurrent set.
+[04Feb2025 04:17:37.853] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'the_twins'
+[04Feb2025 04:17:37.855] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_nether] with concurrent set.
+[04Feb2025 04:17:37.865] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'the_twins'
+[04Feb2025 04:17:37.866] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / twilightforest:twilight_forest] with concurrent set.
+[04Feb2025 04:17:37.880] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'the_twins'
+[04Feb2025 04:17:37.881] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_end] with concurrent set.
+[04Feb2025 04:17:37.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[04Feb2025 04:17:44.995] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 04:17:44.997] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 04:17:44.997] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 04:17:44.998] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 04:17:44.998] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 04:17:44.999] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 04:17:45.000] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 04:17:45.001] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 04:17:45.002] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 04:17:45.003] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 04:17:45.004] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 04:17:45.005] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 04:17:45.005] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 04:17:45.006] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 04:17:45.006] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Feb2025 04:17:45.385] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[04Feb2025 04:17:45.889] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 91%
+[04Feb2025 04:17:45.975] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8090 ms
+[04Feb2025 04:17:45.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.124s)! For help, type "help"
+[04Feb2025 04:17:46.093] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[04Feb2025 04:17:46.154] [Server thread/INFO] [net.kenji.kenjiscombatforms.KenjisCombatForms/]: HELLO from server starting
+[04Feb2025 04:17:46.163] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[04Feb2025 04:17:46.171] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[04Feb2025 04:17:46.217] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[04Feb2025 04:17:46.218] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[04Feb2025 04:17:46.218] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[04Feb2025 04:17:46.218] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[04Feb2025 04:17:47.259] [Server thread/INFO] [corail_dt/]: Loaded 9796 deconstruction schemas, 962ms
+[04Feb2025 04:17:47.290] [Server thread/INFO] [Silent Gear/TraitManager]: Traits loaded: 70
+[04Feb2025 04:17:47.291] [Server thread/INFO] [Silent Gear/PartManager]: Parts loaded: 45
+[04Feb2025 04:17:47.291] [Server thread/INFO] [Silent Gear/PartManager]: - Compound: 41
+[04Feb2025 04:17:47.292] [Server thread/INFO] [Silent Gear/PartManager]: - Simple: 4
+[04Feb2025 04:17:47.292] [Server thread/INFO] [Silent Gear/MaterialManager]: Materials loaded: 128
+[04Feb2025 04:17:47.293] [Server thread/INFO] [Silent Gear/MaterialManager]: - Standard: 122
+[04Feb2025 04:17:47.294] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[04Feb2025 04:19:00.503] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ce7eb3f[id=<null>,name=Streeg11,properties={},legacy=false] (/127.53.40.103:59191) lost connection: Disconnected
+[04Feb2025 04:19:35.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[04Feb2025 04:20:03.096] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1dd6cf35[id=<null>,name=Streeg11,properties={},legacy=false] (/127.53.40.103:46535) lost connection: Disconnected
+[04Feb2025 04:22:39.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Peaceful
+[04Feb2025 04:22:43.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Streeg11[/127.53.40.103:39323] logged in with entity id 1680 at (1301.300000011921, 107.3232610937041, 600.3211297682984)
+[04Feb2025 04:22:43.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 joined the game
+[04Feb2025 04:22:43.990] [Server thread/INFO] [Jade/]: Syncing config to Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66)
+[04Feb2025 04:22:45.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
