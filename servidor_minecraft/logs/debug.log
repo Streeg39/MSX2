@@ -15209,3 +15209,41 @@ java.lang.NullPointerException: Cannot invoke "String.isEmpty()" because "messag
 [04Feb2025 00:07:09.271] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
 [04Feb2025 00:07:55.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 13000]
 [04Feb2025 00:08:17.566] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:08:55.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[04Feb2025 00:09:31.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:09:36.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 00:09:36.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 00:09:59.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU has reached the goal [Spectral Guardian]
+[04Feb2025 00:09:59.901] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[04Feb2025 00:09:59.949] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.31 and blood value 2 for entity tombstone:spectral_wolf
+[04Feb2025 00:10:32.463] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:10:32.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:10:45.706] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:10:45.707] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:11:38.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:11:43.478] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:11:45.748] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity alexsmobs:jerboa
+[04Feb2025 00:11:46.599] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:rattlesnake
+[04Feb2025 00:11:46.599] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:rattlesnake
+[04Feb2025 00:11:46.795] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:roadrunner
+[04Feb2025 00:11:47.195] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[04Feb2025 00:11:47.195] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[04Feb2025 00:11:49.399] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[04Feb2025 00:11:59.588] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:13:26.961] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:14:35.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 00:14:35.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 00:14:39.206] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:15:11.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[04Feb2025 00:15:37.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[04Feb2025 00:16:01.276] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:16:01.276] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:17:03.560] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:17:03.560] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:largeexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:17:05.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 13000]
+[04Feb2025 00:17:34.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:17:34.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already
+[04Feb2025 00:17:54.540] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Starting ritual for ServerPlayer['JackUchihaUwU'/68992, l='ServerLevel[world]', x=1282.63, y=121.81, z=565.47]
+[04Feb2025 00:17:54.589] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Ritual started
+[04Feb2025 00:18:14.544] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JackUchihaUwU has new faction level vampirism:vampire 7
+[04Feb2025 00:18:20.359] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity xp_jellies:smallexperiencejellyfish but it was marked as removed already

@@ -7522,6 +7522,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/rat_and_crossbones_banner_pattern": {
+    "criteria": {
+      "has_paper": "2025-02-04 00:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-02-03 23:32:18 +0000"
@@ -7546,9 +7552,21 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-04 00:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-03 22:53:39 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blueprint_paper": {
+    "criteria": {
+      "has_paper": "2025-02-04 00:11:26 +0000"
     },
     "done": true
   },
@@ -7567,6 +7585,12 @@
   "rats:recipes/misc/upgrades/speed_upgrade": {
     "criteria": {
       "has_dust": "2025-02-03 22:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-04 00:11:26 +0000"
     },
     "done": true
   },
@@ -7594,6 +7618,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/cheese_banner_pattern": {
+    "criteria": {
+      "has_paper": "2025-02-04 00:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-03 22:53:39 +0000"
@@ -7603,6 +7633,12 @@
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2025-02-03 23:21:13 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_banner_pattern": {
+    "criteria": {
+      "has_paper": "2025-02-04 00:11:26 +0000"
     },
     "done": true
   },
@@ -7624,6 +7660,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/plague_doctorate": {
+    "criteria": {
+      "has_paper": "2025-02-04 00:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-02-03 22:56:11 +0000"
@@ -7641,6 +7683,18 @@
       "in_better_monster_room": "2025-02-03 23:22:24 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 00:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-04 00:11:26 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
