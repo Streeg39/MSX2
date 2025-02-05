@@ -1522,3 +1522,29 @@ java.lang.IllegalArgumentException: No enum constant com.eruannie_9.minervillage
 [05Feb2025 03:18:04.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
 [05Feb2025 03:19:59.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU has completed the challenge [Rude Awakening]
 [05Feb2025 03:24:06.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 13000]
+[05Feb2025 03:25:12.853] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Feb2025 03:25:12.863] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Feb2025 03:25:17.754] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[05Feb2025 03:25:17.755] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[05Feb2025 03:25:17.755] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[05Feb2025 03:25:18.224] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[05Feb2025 03:25:18.225] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[05Feb2025 03:25:18.225] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[05Feb2025 03:25:18.225] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[05Feb2025 03:25:18.226] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[05Feb2025 03:25:22.931] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=293, y=101, z=295}
+[05Feb2025 03:25:41.327] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30238, l='ServerLevel[world]', x=-6369.63, y=63.50, z=-3952.28] died, message: 'Unemployed suffocated in a wall'
+[05Feb2025 03:26:51.816] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-32, y=-56, z=8}
+[05Feb2025 03:26:51.817] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-32, y=-55, z=8}
+[05Feb2025 03:30:54.690] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager MinerVillagerEntity['Miner'/39848, l='ServerLevel[world]', x=-6647.50, y=40.00, z=-3556.50] died, message: 'Miner suffocated in a wall'
+[05Feb2025 03:31:29.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager MinerVillagerEntity['Miner'/41367, l='ServerLevel[world]', x=-6587.50, y=38.00, z=-3553.50] died, message: 'Miner suffocated in a wall'
+[05Feb2025 03:32:14.751] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager MinerVillagerEntity['Miner'/43312, l='ServerLevel[world]', x=-6606.50, y=34.00, z=-3605.50] died, message: 'Miner suffocated in a wall'
+[05Feb2025 03:34:39.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU has made the advancement [Your First Receptacle]
+[05Feb2025 03:35:39.213] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[05Feb2025 03:42:27.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4098ms or 81 ticks behind
+[05Feb2025 03:42:55.740] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-23, z=87}
+[05Feb2025 03:43:01.576] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-23, z=87}
+[05Feb2025 03:43:06.091] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-32, y=-56, z=8}
+[05Feb2025 03:43:06.091] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-32, y=-55, z=8}
+[05Feb2025 03:43:21.739] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-23, z=87}
+[05Feb2025 03:43:22.766] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-23, z=87}
