@@ -511,6 +511,7 @@
       "minecraft:stony_shore": "2025-01-31 23:38:54 +0000",
       "minecraft:snowy_plains": "2025-02-04 03:10:33 +0000",
       "minecraft:dripstone_caves": "2025-02-01 01:15:22 +0000",
+      "minecraft:snowy_taiga": "2025-02-05 02:32:31 +0000",
       "minecraft:grove": "2025-02-01 01:14:31 +0000",
       "minecraft:forest": "2025-02-01 03:15:48 +0000",
       "minecraft:lush_caves": "2025-02-03 22:52:15 +0000",
@@ -2645,6 +2646,7 @@
       "minecraft:vindicator": "2025-02-04 00:59:08 +0000",
       "minecraft:spider": "2025-02-01 03:11:44 +0000",
       "minecraft:creeper": "2025-02-03 23:03:25 +0000",
+      "minecraft:wither_skeleton": "2025-02-05 02:37:36 +0000",
       "minecraft:husk": "2025-02-01 00:09:50 +0000",
       "minecraft:cave_spider": "2025-02-03 06:20:09 +0000",
       "minecraft:zombie": "2025-02-02 01:50:44 +0000",
@@ -7820,6 +7822,18 @@
   "legendary_monsters:locate_frostbitten_temple": {
     "criteria": {
       "frostbitten_temple": "2025-02-04 03:08:23 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
+    "criteria": {
+      "has_heart_striker": "2025-02-05 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-02-05 02:34:52 +0000"
     },
     "done": true
   },
