@@ -427,8 +427,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-02-05 04:13:18 +0000",
       "shrubland": "2025-02-01 01:59:53 +0000",
       "rocky_shrubland": "2025-02-01 02:01:17 +0000",
+      "scrubland": "2025-02-05 04:45:20 +0000",
       "highland": "2025-01-31 23:46:16 +0000",
       "jade_cliffs": "2025-02-03 05:51:39 +0000",
       "clover_patch": "2025-02-01 03:07:27 +0000",
@@ -438,10 +440,12 @@
       "orchard": "2025-02-04 01:02:43 +0000",
       "lavender_forest": "2025-02-03 05:53:52 +0000",
       "moor": "2025-02-02 01:50:18 +0000",
+      "mediterranean_forest": "2025-02-05 03:55:41 +0000",
       "coniferous_forest": "2025-02-02 07:11:51 +0000",
       "forested_field": "2025-02-01 01:31:25 +0000",
       "spider_nest": "2025-02-01 03:05:51 +0000",
       "dryland": "2025-02-04 00:19:09 +0000",
+      "wasteland": "2025-02-05 04:26:14 +0000",
       "seasonal_orchard": "2025-02-03 01:50:47 +0000",
       "seasonal_forest": "2025-02-02 07:12:01 +0000",
       "volcano": "2025-02-03 06:10:38 +0000",
@@ -502,6 +506,7 @@
       "minecraft:windswept_hills": "2025-02-01 03:15:46 +0000",
       "minecraft:bamboo_jungle": "2025-02-03 06:10:29 +0000",
       "minecraft:badlands": "2025-02-04 00:21:35 +0000",
+      "minecraft:savanna_plateau": "2025-02-05 03:44:40 +0000",
       "minecraft:beach": "2025-02-01 03:16:07 +0000",
       "minecraft:dark_forest": "2025-02-02 07:10:46 +0000",
       "minecraft:stony_peaks": "2025-02-03 06:09:38 +0000",
@@ -518,17 +523,20 @@
       "minecraft:lush_caves": "2025-02-03 22:52:15 +0000",
       "minecraft:ice_spikes": "2025-02-05 03:25:22 +0000",
       "minecraft:frozen_ocean": "2025-02-05 03:25:48 +0000",
+      "minecraft:desert": "2025-02-05 04:30:58 +0000",
       "minecraft:windswept_forest": "2025-02-01 03:15:34 +0000",
       "minecraft:jungle": "2025-02-01 03:15:10 +0000",
       "minecraft:ocean": "2025-02-03 06:14:07 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-01 01:08:10 +0000",
       "minecraft:snowy_beach": "2025-02-05 03:25:44 +0000",
+      "minecraft:windswept_savanna": "2025-02-05 05:11:08 +0000",
       "minecraft:warm_ocean": "2025-02-04 00:19:41 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-01 05:16:23 +0000",
       "minecraft:frozen_peaks": "2025-02-03 06:00:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-31 23:57:35 +0000",
       "minecraft:deep_dark": "2025-02-03 22:55:17 +0000",
       "minecraft:meadow": "2025-01-31 23:56:34 +0000",
+      "minecraft:savanna": "2025-02-05 03:46:25 +0000",
       "minecraft:plains": "2025-02-03 01:12:41 +0000"
     },
     "done": false
@@ -7657,7 +7665,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2025-02-03 23:22:24 +0000"
+      "in_better_monster_room": "2025-02-03 23:22:24 +0000",
+      "in_better_spider_dungeon": "2025-02-05 04:03:02 +0000"
     },
     "done": false
   },
@@ -7841,9 +7850,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-05 02:43:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-02-05 02:52:57 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-02-05 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-02-05 03:19:59 +0000"
     },
     "done": true
   },
@@ -7859,21 +7886,285 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_gloves_repairing": {
+  "minecraft:recipes/tools/spyglass": {
     "criteria": {
-      "has_diamond_gloves": "2025-02-05 02:52:57 +0000"
+      "has_amethyst_shard": "2025-02-05 03:45:18 +0000"
     },
     "done": true
   },
-  "mowziesmobs:kill_frostmaw": {
+  "soulsweapons:recipes/combat/featherlight": {
     "criteria": {
-      "frostmaw": "2025-02-05 03:19:59 +0000"
+      "has_item": "2025-02-05 03:45:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-02-05 02:43:07 +0000"
+      "has_amethyst_shard": "2025-02-05 03:45:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-05 03:45:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-05 03:45:18 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-05 04:03:02 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_seeker_normal": {
+    "criteria": {
+      "has_ingot": "2025-02-05 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blood_infused_enhanced_iron_block": {
+    "criteria": {
+      "has_blood_infused_enhanced_iron_ingot": "2025-02-05 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced": {
+    "criteria": {
+      "has_ingot": "2025-02-05 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced": {
+    "criteria": {
+      "has_ingot": "2025-02-05 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_normal": {
+    "criteria": {
+      "has_ingot": "2025-02-05 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blood_infused_iron_block": {
+    "criteria": {
+      "has_blood_infused_iron_ingot": "2025-02-05 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood1": {
+    "criteria": {
+      "has_pure_blood": "2025-02-05 04:12:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood2": {
+    "criteria": {
+      "has_pure_blood": "2025-02-05 04:16:39 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-02-05 04:23:21 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-02-05 04:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-02-05 04:23:21 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-02-05 04:23:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-02-05 04:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-02-05 04:23:21 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-02-05 04:26:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-02-05 04:26:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-05 04:51:43 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_the_ancient_guardian": {
+    "criteria": {
+      "guardian": "2025-02-05 05:05:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-02-05 05:16:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-02-05 05:31:52 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-02-05 05:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-05 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "cave_stuff:bossslayer": {
+    "criteria": {
+      "bossslayer_0": "2025-02-05 05:53:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-02-05 06:02:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-02-05 06:02:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-02-05 06:02:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-02-05 06:02:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-02-05 06:02:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-05 06:02:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-02-05 06:02:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-05 06:02:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-02-05 06:02:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-05 06:02:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-05 06:02:15 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:runic_weapon": {
+    "criteria": {
+      "requirement": "2025-02-05 06:15:32 +0000"
     },
     "done": true
   },
