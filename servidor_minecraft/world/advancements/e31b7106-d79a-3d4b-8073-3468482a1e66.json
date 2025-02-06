@@ -11007,105 +11007,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 07:43:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 07:43:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 07:43:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 07:43:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 07:43:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 07:43:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 07:43:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 07:43:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 07:43:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 07:43:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 07:43:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 07:43:23 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-05 05:12:45 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
     "criteria": {
       "has_item": "2025-02-05 05:11:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+  "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
     "criteria": {
-      "has_netherite_ingot": "2025-02-05 05:57:54 +0000"
+      "has_item": "2025-02-05 05:11:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
+  "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
-      "has_blaze_powder": "2025-02-05 05:30:04 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_gloves_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-05 05:57:54 +0000"
+      "has_any_ingredient": "2025-02-05 05:12:45 +0000"
     },
     "done": true
   },
@@ -11115,21 +11031,21 @@
     },
     "done": true
   },
-  "simplyswords:runic_weapon": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "requirement": "2025-02-05 06:14:09 +0000"
+      "has_brown_mushroom": "2025-02-05 05:12:45 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/uncrafting_table": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_the_recipe": "2025-02-05 05:20:17 +0000"
+      "has_brown_mushroom": "2025-02-05 05:12:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
+  "twilightforest:recipes/misc/maze_map": {
     "criteria": {
-      "has_ender_eye": "2025-02-05 05:30:09 +0000"
+      "has_item": "2025-02-05 05:12:56 +0000"
     },
     "done": true
   },
@@ -11139,9 +11055,51 @@
     },
     "done": true
   },
-  "aether:recipes/combat/netherite_helmet_repairing": {
+  "twilightforest:recipes/food/food/smoked_meef": {
     "criteria": {
-      "has_netherite_helmet": "2025-02-05 06:18:17 +0000"
+      "has_food": "2025-02-05 05:13:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2025-02-05 05:13:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-02-05 05:14:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-02-05 05:15:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_axe_repairing": {
+    "criteria": {
+      "has_golden_axe": "2025-02-05 05:16:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/uncrafting_table": {
+    "criteria": {
+      "has_the_recipe": "2025-02-05 05:20:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-05 05:29:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-05 05:30:04 +0000"
     },
     "done": true
   },
@@ -11151,9 +11109,63 @@
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
+  "silentgear:recipes/misc/blaze_gold_ingot": {
     "criteria": {
-      "netherite_armor": "2025-02-05 06:18:17 +0000"
+      "has_item": "2025-02-05 05:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-05 05:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-05 05:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-02-05 05:30:09 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-02-05 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2025-02-05 05:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-05 05:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-05 05:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-05 05:57:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-05 05:57:54 +0000"
     },
     "done": true
   },
@@ -11175,87 +11187,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/food/food/smoked_meef": {
-    "criteria": {
-      "has_food": "2025-02-05 05:13:58 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
-    "criteria": {
-      "has_item": "2025-02-05 05:11:18 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_boots_repairing": {
-    "criteria": {
-      "has_netherite_boots": "2025-02-05 06:17:28 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/maze_map": {
-    "criteria": {
-      "has_item": "2025-02-05 05:12:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-05 07:20:50 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/blaze_gold_ingot": {
-    "criteria": {
-      "has_item": "2025-02-05 05:30:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-05 05:57:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-05 05:30:04 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_chestplate_repairing": {
-    "criteria": {
-      "has_netherite_chestplate": "2025-02-05 06:17:24 +0000"
-    },
-    "done": true
-  },
   "corail_dt:recipes/corail_dt/crafting_disk_5_5_smithing": {
     "criteria": {
       "requirement0": "2025-02-05 05:57:54 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/withered_wabbajack": {
-    "criteria": {
-      "has_item": "2025-02-05 05:42:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-02-05 05:30:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-05 07:20:50 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_leggings_repairing": {
-    "criteria": {
-      "has_netherite_leggings": "2025-02-05 06:18:13 +0000"
     },
     "done": true
   },
@@ -11272,57 +11212,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-02-05 05:12:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-05 05:57:54 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/golden_axe_repairing": {
-    "criteria": {
-      "has_golden_axe": "2025-02-05 05:16:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-05 05:57:54 +0000"
-    },
-    "done": true
-  },
-  "silentgear:salvager": {
-    "criteria": {
-      "get_item": "2025-02-05 06:06:00 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_ancient_factory": {
-    "criteria": {
-      "factory": "2025-02-05 05:39:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_onion": "2025-02-05 07:20:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/campfired_meef": {
-    "criteria": {
-      "has_food": "2025-02-05 05:13:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-02-05 05:29:21 +0000"
     },
     "done": true
   },
@@ -11344,27 +11242,51 @@
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
-      "wither_skull": "2025-02-05 05:42:37 +0000"
+      "has_netherite_ingot": "2025-02-05 05:57:54 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:naughty_child": {
+  "silentgear:salvager": {
     "criteria": {
-      "naughty_child_0": "2025-02-05 07:18:35 +0000"
+      "get_item": "2025-02-05 06:06:00 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/ratatouille": {
+  "simplyswords:runic_weapon": {
     "criteria": {
-      "has_any_ingredient": "2025-02-05 07:20:50 +0000"
+      "requirement": "2025-02-05 06:14:09 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:wrong_santa": {
+  "aether:recipes/combat/netherite_chestplate_repairing": {
     "criteria": {
-      "wrong_santa_0": "2025-02-05 07:18:57 +0000"
+      "has_netherite_chestplate": "2025-02-05 06:17:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-02-05 06:17:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-02-05 06:18:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2025-02-05 06:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-02-05 06:18:17 +0000"
     },
     "done": true
   },
@@ -11374,33 +11296,45 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:naughty_child": {
+    "criteria": {
+      "naughty_child_0": "2025-02-05 07:18:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:wrong_santa": {
+    "criteria": {
+      "wrong_santa_0": "2025-02-05 07:18:57 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/crime_in_town": {
     "criteria": {
       "coded_trigger": "2025-02-05 07:20:16 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/tools/charm_of_keeping_2": {
+  "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
-      "has_item": "2025-02-05 05:14:06 +0000"
+      "has_any_ingredient": "2025-02-05 07:20:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
-      "has_brown_mushroom": "2025-02-05 05:12:45 +0000"
+      "has_any_ingredient": "2025-02-05 07:20:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+  "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
-      "has_netherite_ingot": "2025-02-05 05:57:54 +0000"
+      "has_onion": "2025-02-05 07:20:50 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/firefly_jar": {
+  "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
-      "has_item": "2025-02-05 05:15:32 +0000"
+      "has_any_ingredient": "2025-02-05 07:20:50 +0000"
     },
     "done": true
   },
@@ -11410,9 +11344,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-02-05 05:42:37 +0000"
+      "has_netherite_block": "2025-02-06 00:26:56 +0000"
     },
     "done": true
   },
